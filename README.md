@@ -12,7 +12,7 @@
 | **IRAKOZE PEACE CEDRICK** | **20251SEN259** |
 | **MUGISHA Elyse** | **20251IMA004** |
 
-**Class group:** [Write I, B, C, or D after checking your class.]  
+**Class group:** I  
 **Project folder:** `plsql-assignment4-20251SEN259-20251IMA004`
 
 ## 1. What is our project?
